@@ -25,6 +25,8 @@ I build things that sit between silicon and the real world: ESP32 firmware, wire
 **Embedded & Hardware**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS-6BA43A?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![WiFi](https://img.shields.io/badge/WiFi-4285F4?style=for-the-badge&logo=wifi&logoColor=white)
