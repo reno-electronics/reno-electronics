@@ -71,9 +71,6 @@ ESP32-based BMS for 18650 Li-ion packs with adjustable current limiting, voltage
 ### 🔔 Notification Mirroring
 Mirrors phone notifications to an ESP32 + OLED over BLE.
 
-### 🌐 Portfolio
-Personal site showcasing my projects and academics, built with **SvelteKit (Svelte 5)** and plain CSS.
-
 
 ---
 
