@@ -67,8 +67,6 @@ ESP32-based automation controller for a mushroom farm, built and refined iterati
 ### 🔋 Battery Management System (BMS)
 ESP32-based BMS for 18650 Li-ion packs with adjustable current limiting, voltage monitoring and state-of-charge (SOC) estimation.
 
-### 🧭 Navigation HUD
-Parses Android navigation notifications, forwards them over **BLE** to an ESP32, and shows turn-by-turn info on an OLED display.
 
 ### 🔔 Notification Mirroring
 Mirrors phone notifications to an ESP32 + OLED over BLE.
@@ -76,8 +74,6 @@ Mirrors phone notifications to an ESP32 + OLED over BLE.
 ### 🌐 Portfolio
 Personal site showcasing my projects and academics, built with **SvelteKit (Svelte 5)** and plain CSS.
 
-### 🤖 Local C Codebase Assistant
-Local 1–2B parameter LLM with RAG that helps me understand my own C codebase, running entirely on my own PC.
 
 ---
 
@@ -85,8 +81,8 @@ Local 1–2B parameter LLM with RAG that helps me understand my own C codebase, 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=reno-electronics&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reno-electronics&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
