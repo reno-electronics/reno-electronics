@@ -77,16 +77,6 @@ Personal site showcasing my projects and academics, built with **SvelteKit (Svel
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=reno-electronics&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reno-electronics&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's connect
 
